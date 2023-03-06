@@ -16,3 +16,5 @@ ${user.home}/.m2/
 </pre>
 
 If both the Maven and user settings.xml files exist the contents are merged. Where there are overlaps, the user's settings.xml file takes precedence. 
+
+## Project creation
